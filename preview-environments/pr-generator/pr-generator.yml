@@ -11,6 +11,8 @@ spec:
       github:
         owner: m-bruckner
         repo: gitops-cert-level-3-examples
+        labels:
+        - preview
       requeueAfterSeconds: 180
   template:
     metadata:
